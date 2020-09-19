@@ -8,3 +8,4 @@ Supports Multiplication, Subtraction, Addition, Division.
 Automatically simplifies your answers!
 Suports improper fractions!
 Perfect for all ages!
+Thats all...
